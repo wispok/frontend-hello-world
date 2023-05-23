@@ -14,7 +14,7 @@ You will need:
 
 We encourage you to use:
 
-- a git repository to store your app
+- a public git repository to store your app
 
 - React components
 
